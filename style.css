@@ -1,0 +1,76 @@
+body {
+    background-color: white;
+    font-family:
+}
+
+.navigation {
+    margin: 0;
+    padding: 0;
+
+}
+
+.navigation a {
+    background:
+    border:
+    border-radius:
+    color:
+    display: inline-block;
+    margin:
+    padding:
+}
+
+.navigation a:hover {
+    background: white;
+    border:
+    color:
+}
+
+#about {
+    background-image: url("");
+    background-size: cover;
+    background-position: bottom center;
+    height:
+    width:
+}
+
+#about .content {
+
+}
+
+#projects {
+
+}
+
+#projects .content {
+
+}
+
+#skills {
+
+}
+
+#skills .content {
+
+}
+
+h1 {
+    color:
+    font-family:
+    font-size:
+}
+
+h2 {
+    color:
+    font-family:
+    font-size:
+}
+
+p {
+    color:
+    font-family:
+    font-size:
+}
+
+#footer {
+    
+}
